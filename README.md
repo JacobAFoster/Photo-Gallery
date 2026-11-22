@@ -65,6 +65,11 @@ Contributing
 
 Issues and pull requests are welcome.
 
-License
+updates
 
-Add a license of your choice (for example MIT) as a LICENSE file.
+Performance: on-disk thumbnail cache, thumbnails decoded in separate processes so huge PNGs can be shown, and fade-in on load.
+Viewing: full-size viewer, file name on hover, EXIF info panel, animated GIFs and WebPs, and HEIC/RAW support.
+Organising: subfolder scanning, sorting, search and filter, multi-select, and favourites and albums.
+File actions: right-click menu (open, show in folder, copy path, rename, delete), drag and drop a folder in, and drag photos out.
+App polish: remember the last folder and window size, dark mode, arrow-key navigation, a settings window, and a packaged .exe.
+Project: unit tests, continuous integration, and screenshots with a demo GIF.
